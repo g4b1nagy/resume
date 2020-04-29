@@ -35,8 +35,8 @@ Tech stack: docker, postgresql, mongodb, python, flask, django, html, css, javas
 Founder
 [nemutam.ro](https://nemutam.ro/)
 Jan 2014 → Current (??? years, ??? months)
-Tech stack: digitalocean, postgresql, redis, python, django, html, css, javascript
 Real estate listing aggregator for the Romanian market
+Tech stack: digitalocean, postgresql, redis, python, django, html, css, javascript
 * started as a script to help me find a new apartment; script became popular, so I turned it into a website; website became popular so I kept improving it
 * currently a distributed, loosely coupled and scalable system, all in just ~ 2.700 LOC
 * became one of the first three Google search results for "apartment to rent in Cluj-Napoca" in 2017, with ~ 7.000 unique monthly visitors
