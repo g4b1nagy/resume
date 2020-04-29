@@ -5,9 +5,9 @@ Readable version available at:
 
 # Gabi Nagy
 Python / web developer on Linux
-Cluj-Napoca, Romania
 @email
 @phone_number
+Cluj-Napoca, Romania
 [github.com/g4b1nagy](https://github.com/g4b1nagy)
 [helpfulsheep.com](https://helpfulsheep.com/)
 
