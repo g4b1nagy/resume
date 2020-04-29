@@ -1,4 +1,4 @@
-Readable version of this available at:
+Readable version available at:
 * https://stackoverflow.com/cv/g4b1nagy
 * https://www.linkedin.com/in/g4b1nagy/
 
