@@ -92,3 +92,25 @@ Web developer
 Dec 2011 → May 2012 (6 months)
 Tech stack: asp.net, php, html, css, javascript
 * built various websites showcasing the company's products
+
+
+## EDUCATION
+Master's degree, Distributed Computing
+Babeș-Bolyai University, Cluj-Napoca
+2013 → 2015
+
+Bachelor's degree, Computer Science
+Babeș-Bolyai University, Cluj-Napoca
+2009 → 2012
+* part of the team that won the first edition of Startup Weekend Cluj 2012 (UseTogether.com)
+* part of the team that won the Hermes Social Hackathon 2012 (ServusRent)
+* honorable mention at Startup Weekend Romania 2012 (rently.ro)
+* honorable mention at Startup Weekend Cluj 2013 (fartup.co)
+
+Mathematics and Informatics
+Andrei Șaguna National College, Brașov
+2005 → 2009
+* 2nd place, American Computer Science League Baltimore, USA 2008
+* 4th place, Brașov County Informatics Olympiad 2009
+* Cambridge ESOL Certificate in Advanced English 2008
+* Electric guitar, Tiberiu Brediceanu School of Arts and Crafts, Brașov 2009
