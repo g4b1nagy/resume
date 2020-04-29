@@ -82,7 +82,7 @@ Remote Python back end developer
 Mar 2012 → Feb 2013 (1 year)
 Tech stack: hdf5, python, pytables, pyparsing, numpy, pandas
 * built a tool to analyze tens of TBs worth of log data using multiple server CPU cores by leveraging Python's multiprocessing module
-* built and maintained a SQL interface to an existing HDF5 data store, allowing end-users to issue SQL queries against it
+* built a SQL interface to an existing HDF5 data store, allowing end-users to issue SQL queries against it
 
 Web developer
 [Temasoft, Cluj-Napoca](https://temasoft.com/)
