@@ -55,7 +55,7 @@ As the most senior person on the team, I was the go-to person for feedback and t
 * lead the effort to prepare the project for migration to Python 3 by defining guidelines for both existing and new code
 * implemented a number of tools to improve transparency i.e. what version of the code each environment is running and automate various tasks i.e. auto-deploy on git push or run report for all clients
 * created a script to automate ordering lunch for the team (https://github.com/g4b1nagy/hipmenu-autoorder)
-* created a status page (vacant / in use) for the company ping-pong table using Raspberry Pis
+* created a status page (vacant / in use) for the company ping-pong table using Raspberry Pis (https://github.com/g4b1nagy/ping-pong-table-status)
 
 Freelance developer
 self-employed
