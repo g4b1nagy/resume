@@ -58,14 +58,14 @@ Tech stack: amazon-web-services, postgresql, redis, python, flask, html, less, a
 * was in charge of requirements gathering, writing up specifications and designing the interface and data processing pipeline for the integration above
 * lead the effort to prepare the project for migration to Python 3 by defining guidelines for both existing and new code
 * implemented a number of tools to improve transparency i.e. what version of the code each environment is running and automate various tasks i.e. auto-deploy on git push or run report for all clients
-* created a script to automate ordering lunch for the team => https://github.com/g4b1nagy/hipmenu-autoorder
+* created a script to automate ordering lunch for the team (https://github.com/g4b1nagy/hipmenu-autoorder)
 * created a status page (vacant / in use) for the company ping-pong table using Raspberry Pis
 
 Freelance developer
 self-employed
 Dec 2013 → Feb 2015 (1 year, 3 months)
 Tech stack: python, node.js, php, ruby-on-rails, html, css, javascript
-* built an open map of recycling collection points => https://github.com/g4b1nagy/reciclopedia.ro
+* built an open map of recycling collection points (https://github.com/g4b1nagy/reciclopedia.ro)
 * built the web version of a New York-based startup's iPad app
 * built a real-time cyber attack map for a CTF-style information security training platform
 * built a web front end to the Aarhus municipality's CKAN data portal allowing users to upload events via Excel files
