@@ -53,7 +53,7 @@ Senior Python / web developer
 [TSS-Yonder, Cluj-Napoca](https://tss-yonder.com/)
 Mar 2015 → Apr 2017 (2 years, 2 months)
 Tech stack: amazon-web-services, postgresql, redis, python, flask, html, less, angular
-As the most senior person on the team, I was the go-to person for feedback and the team's spokesman in relation to our US-based client
+As the most senior person on the team, I was the go-to person for feedback and the team's spokesman in relation to our US-based client.
 * improved dev team workflows by documenting various parts of the application and establishing development guidelines
 * lead the effort to define and develop a JSON API-based integration allowing our product to concurrently ingest and process hundreds of MBs worth of customer data in near real-time fashion
 * was in charge of requirements gathering, writing up specifications and designing the interface and data processing pipeline for the integration above
