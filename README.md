@@ -1,8 +1,9 @@
-# resume
-Single source of truth for my resume data
+Readable version of this available at:
+* https://stackoverflow.com/cv/g4b1nagy
+* https://www.linkedin.com/in/g4b1nagy/
 
 
-## Gabi Nagy
+# Gabi Nagy
 Python / web developer on Linux
 Cluj-Napoca, Romania
 @email
