@@ -30,7 +30,7 @@ Tech stack: docker, postgresql, mongodb, python, flask, django, html, css, javas
 * set up the back end for a US company's product by integrating their in-house microservices framework into Django (3 month contract)
 * while re-visiting an older project, achieved a 10-13x time improvement in generating mission-critical reports by optimizing database access and implementing application-level caches (1 month contract)
 * built a Django-based marketplace for event suppliers with random sorting of profiles (random strings and hashing), providing equal amount of exposure to all suppliers (project-based)
-* currently working on a large (35 person dev team), US-based recruitment marketplace, where I help turn customer needs into functional, easy to use and testable features (12 month contract)
+* currently working on a large (35 person dev team), US-based recruitment marketplace, where I help integrate incoming customer needs into the existing infrastructure via technical designs, implementations and tests
 
 Founder
 [nemutam.ro](https://nemutam.ro/)
